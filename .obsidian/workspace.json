@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77b80e57c7c088f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embeddings - What are they? Why use them?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI-powered emoji selection.md",
+                "file": "Embeddings - What are they? Why use them?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI-powered emoji selection.md",
+                "file": "Embeddings - What are they? Why use them?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI-powered emoji selection.md"
+                "file": "Embeddings - What are they? Why use them?.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29a0c05d6bcc1f7d",
+  "active": "77b80e57c7c088f8",
   "lastOpenFiles": [
+    "AI-powered emoji selection.md",
+    "Embeddings - What are they? Why use them?.md",
     "README.md",
-    "]",
-    "AI-powered emoji selection.md"
+    "]"
   ]
 }

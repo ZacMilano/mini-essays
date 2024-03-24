@@ -1,0 +1,1 @@
+To embed something is to reduce something about it (physical size, digital size) while retaining enough underlying information to be able to reproduce the original, pre-embedding object.

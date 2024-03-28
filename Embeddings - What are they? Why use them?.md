@@ -3,3 +3,5 @@ To embed something is to reduce something about it (physical size, digital size)
 Commonly in machine learning models, an embedding model $M(c) \rightarrow R^N$ encodes an input concept $c$ into a collection of $N$ numbers, which we call a Vector in $N$-dimensional space. The model $M$ compresses the underlying information contained in the concept $c$, squashing it down into a list of numbers, or a point in high-dimensional space (depending on how you think about vectors).
 
 I will return to this on a later date.
+
+I am toast.

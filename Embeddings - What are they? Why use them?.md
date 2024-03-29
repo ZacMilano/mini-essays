@@ -5,3 +5,5 @@ Commonly in machine learning models, an embedding model $M(c) \rightarrow R^N$ e
 I will return to this on a later date.
 
 I am toast.
+
+Toast again.
